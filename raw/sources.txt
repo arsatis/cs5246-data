@@ -1,0 +1,7 @@
+dataset_0: https://www.kaggle.com/datasets/avisheksood/stock-news-sentiment-analysismassive-dataset
+dataset_1: https://www.kaggle.com/datasets/aravsood7/sentiment-analysis-labelled-financial-news-data
+dataset_2: https://www.kaggle.com/datasets/clovisdalmolinvieira/news-sentiment-analysis
+dataset_3: https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-in-commodity-market-gold
+dataset_4: https://www.kaggle.com/datasets/hoshi7/news-sentiment-dataset
+dataset_5: collected by Jiayan
+
